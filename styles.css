@@ -59,6 +59,7 @@ h1 {
 
 .name {
     padding-right: 5px;
+    max-width: 40%;
 }
 .name h2 {
     font-family: Inconsolata;
@@ -117,4 +118,39 @@ border-color: black;
 input {
     margin: 0 10px;
     width: 10%;
+}
+
+@media screen and (max-width: 549px) {
+	.logo img {
+		width: 50px;
+	}
+	header h1 {
+		font-size: 20px;
+	}
+	header h4 {
+		font-size: 14px;
+	}
+	.text-title {
+		font-size: 35px;
+	}
+	.text {
+		font-size: 30px;
+	}
+}
+@media screen and (min-width: 550px) and (max-width: 760px) {
+	.logo img {
+		width: 60px;
+	}
+	header h1 {
+		font-size: 32px;
+	}
+	header h4 {
+		font-size: 18px;
+	}
+	.text-title {
+		font-size: 40px;
+	}
+	.text {
+		font-size: 35px;
+	}
 }
