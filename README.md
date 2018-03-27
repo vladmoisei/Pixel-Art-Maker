@@ -1,5 +1,5 @@
 # Pixel Art Maker Project
-### UdacityGoogle_FEWD_Nanodegree: Portfolio
+### UdacityGoogle_FEWD_Nanodegree: Lab Pixel Art Maker Project
 # Website
 [Link to the website.](https://vladmoisei.github.io/Pixel-Art-Maker/)
 # Sources
